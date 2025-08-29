@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: android-minui
-Source: https://github.com/droidian/android-minui
+Source: https://github.com/furilabs/android-minui
 
 Files: *
 Copyright: 2007, The Android Open Source Project
@@ -8,6 +8,7 @@ License: Apache-2.0
 
 Files: debian/*
 Copyright: 2022, Eugenio Paolantonio (g7)
+           2025, Bardia Moshiri <bardia@furilabs.com>
 License: BSD-3-clause
 
 License: Apache-2.0
